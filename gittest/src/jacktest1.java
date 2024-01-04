@@ -4,7 +4,6 @@
  */
 public class jacktest1 {
     private int  jackid;
-    public String jackname;
     public String jack;
 
     public int getJackid() {
